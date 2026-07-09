@@ -1,0 +1,5 @@
+print("Henry C JungcoII" + 16 + "Years old")
+except TypeError:
+   print("typeError: Cannot concatenate a string and an integer.")
+print("Henry C Jungco II" + str(16) + "years old")
+print(f"Henry C Jungco II {16} Years old")
